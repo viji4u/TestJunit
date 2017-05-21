@@ -1,0 +1,162 @@
+2017-05-18 17:06:03,331 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:06:03,331 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:06:03,331 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:06:03,347 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:06:03,363 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:06:03,363 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == list.get(0)
+  |  |    |
+  |  [1]  1
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from first element of list(TestJunitCaseSpec.groovy:28)
+2017-05-18 17:23:39,526 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:23:39,528 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:23:39,528 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:23:39,529 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:23:39,538 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:23:39,538 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,158 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,161 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,162 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,162 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,171 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)
+2017-05-18 17:25:00,171 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == val
+  |  |
+  |  0
+  false
+
+	at testjunit.TestJunitCaseSpec.should return 2 from getTestList (TestJunitCaseSpec.groovy:34)

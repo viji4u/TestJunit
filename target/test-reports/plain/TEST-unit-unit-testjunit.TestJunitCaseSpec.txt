@@ -1,0 +1,10 @@
+Testsuite: testjunit.TestJunitCaseSpec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.435 sec
+------------- Standard Output ---------------
+--Output from should return 2 from getTestList --
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from should return 2 from getTestList --
+------------- ---------------- ---------------
+
+Testcase: should return 2 from getTestList  took 0.428 sec

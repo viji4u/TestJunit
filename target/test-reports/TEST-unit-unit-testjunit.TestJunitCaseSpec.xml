@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="KLT-208" name="testjunit.TestJunitCaseSpec" tests="1" time="0.435" timestamp="2017-05-18T12:01:05">
+  <properties />
+  <testcase classname="testjunit.TestJunitCaseSpec" name="should return 2 from getTestList " time="0.428" />
+  <system-out><![CDATA[--Output from should return 2 from getTestList --
+]]></system-out>
+  <system-err><![CDATA[--Output from should return 2 from getTestList --
+]]></system-err>
+</testsuite>
